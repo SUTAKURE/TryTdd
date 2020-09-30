@@ -1,0 +1,11 @@
+[alias]
+        co = checkout
+        ci = commit
+        st = status -uno --ignore-submodules
+        stt = status
+        br = branch
+        df = diff
+        dff = diff --word-diff
+        today = log --oneline --since='12 hour ago'
+        cancel = reset --soft HEAD^
+        gr = log --oneline --graph
