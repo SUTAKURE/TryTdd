@@ -11,4 +11,3 @@ public class MoneyTest {
         assertEquals(10, five.ammount);
     }
 }
-
